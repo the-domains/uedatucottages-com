@@ -1,19 +1,4 @@
-name: uedatucottages.com
-favicon: null
-layout_spectrum: 0.2506420072168112
-typography_spectrum: 0.18892679479904473
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#A690A4'
@@ -21,8 +6,13 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.1880039838142693
-  lightness: 0.44136756006628275
-  saturation: 0.032349092653021216
-  rhythmicContrast: 0.2296350672841072
+  brandStrength: 0.188003
+  lightness: 0.441367
+  rhythmicContrast: 0.229635
+  saturation: 0.032349
+cta: {}
+layout_spectrum: 0.250642
+name: uedatucottages.com
+opengraph: {}
 purpose: []
+typography_spectrum: 0.188926
