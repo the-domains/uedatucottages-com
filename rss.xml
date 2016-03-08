@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lake poso, saloupa waterfall, syuri beach and around Tentena]]></title>
+        <description><![CDATA[Lake poso, saloupa waterfall, syuri beach and around Tentena]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 14:08:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[uedatu.id]]></title>
+            <description><![CDATA[<article><h1>uedatu.id</h1><p>New Website http://uedatu.id</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e996ac25686cfe8159c4bc317b0ab56ac396fbb.jpg"></article>]]></description>
+            <link>undefineduedatuid/index.html</link>
+            <guid isPermaLink="false">f7cd351d-9c51-4477-8bae-124f01c2ae3e</guid>
+            <pubDate>Tue, 08 Mar 2016 14:08:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
