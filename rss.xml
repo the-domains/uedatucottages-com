@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lake poso, saloupa waterfall, syuri beach and around Tentena]]></title>
+        <description><![CDATA[Lake poso, saloupa waterfall, syuri beach and around Tentena]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 14:42:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e33ed833-598a-40a9-9bb4-0abfd9467945.jpg">]]></description>
+            <link>undefined124d7393-d123-4801-963c-867b56845669/index.html</link>
+            <guid isPermaLink="false">124d7393-d123-4801-963c-867b56845669</guid>
+            <pubDate>Fri, 11 Mar 2016 14:42:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
