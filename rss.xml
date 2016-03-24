@@ -4,8 +4,15 @@
         <description><![CDATA[Lake poso, saloupa waterfall, syuri beach and around Tentena]]></description>
         <link>http://uedatucottages.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 00:09:09 GMT</lastBuildDate>
         <atom:link href="http://uedatucottages.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24ff54fa-53ea-4fa5-b8c4-3882c2d521b6.jpg">]]></description>
+            <link>http://uedatucottages.com/1618fd09-a72d-4c7a-874c-b4d8289aacfb/index.html</link>
+            <guid isPermaLink="false">1618fd09-a72d-4c7a-874c-b4d8289aacfb</guid>
+            <pubDate>Thu, 24 Mar 2016 00:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Elly Panontongan, tentena guide and tour organiser</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uedatucottages.com/loga-megalith-bada-valley/index.html</link>
             <guid isPermaLink="false">c53360da-5bb4-4763-b285-9f361c3e7d44</guid>
             <pubDate>Fri, 18 Mar 2016 14:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pokekea Megalith Bada valley]]></title>
-            <description><![CDATA[<article><h1>Pokekea Megalith Bada valley</h1><p>Pokekea Megalith Bada Valley</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1e7ffe9-ecf2-4c5b-a5d1-2edd77727d88.jpg"></article>]]></description>
-            <link>http://uedatucottages.com/pokekea-megalith-bada-valley/index.html</link>
-            <guid isPermaLink="false">c64fbb2f-0b9d-4db8-90bd-b82009f4caed</guid>
-            <pubDate>Fri, 18 Mar 2016 14:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
